@@ -16,20 +16,20 @@ Annual Budget Usage by Division, Team, Project
 ✨ How to Run the Dashboard:
 1. Clone the repository
    
-git clone https://github.com/fongyinho/Annual-Budget-and-Performance-Review-.git
+   git clone https://github.com/fongyinho/Annual-Budget-and-Performance-Review-.git
 
-cd Annual-Budget-and-Performance-Review-
+   cd Annual-Budget-and-Performance-Review-
 
 3. Install dependencies
    
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 5. Run the Dash app
    
-python app2.py
+   python app2.py
 
-The dashboard will start on:
-http://127.0.0.1:8090/
+   The dashboard will start on:
+   http://127.0.0.1:8090/
 
 
 ✨ Project Structure
