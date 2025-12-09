@@ -12,7 +12,8 @@ Clean and interactive UI using Dash + Plotly
 Annual Budget Usage by Division, Team, Project
 
 
-How to Run the Dashboard:
+
+✨ How to Run the Dashboard:
 1. Clone the repository
 git clone https://github.com/fongyinho/Annual-Budget-and-Performance-Review-.git
 cd Annual-Budget-and-Performance-Review-
@@ -26,7 +27,8 @@ python app2.py
 The dashboard will start on:
 http://127.0.0.1:8090/
 
-Project Structure
+
+✨ Project Structure
 Annual-Budget-and-Performance-Review-/
 │
 ├── app2.py               # Main Dash application
