@@ -4,8 +4,13 @@ This dashboard is designed to support R&D and corporate finance teams by present
 
 ✨ Features
 Budget vs Actual visualization across all cost categories
+
 Top 10 spending projects (overall, R&D, labour, assets)
+
 Clean and interactive UI using Dash + Plotly
+
+Annual Budget Usage by Division, Team, Project
+
 
 How to Run the Dashboard:
 1. Clone the repository
