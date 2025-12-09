@@ -52,10 +52,10 @@ Annual-Budget-and-Performance-Review-/
 
 │
 
-├── app2.py               # Main Dash application
+├── app2.py      
 
-├── EXCEL_BI_ALLDATA.xlsx # Sample depersonalized dataset
+├── EXCEL_BI_ALLDATA.xlsx 
 
+├── requirements.txt      
 
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+└── README.md            
