@@ -29,9 +29,15 @@ http://127.0.0.1:8090/
 
 
 ✨ Project Structure
+
 Annual-Budget-and-Performance-Review-/
+
 │
+
 ├── app2.py               # Main Dash application
+
 ├── EXCEL_BI_ALLDATA.xlsx # Sample depersonalized dataset
+
+
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
